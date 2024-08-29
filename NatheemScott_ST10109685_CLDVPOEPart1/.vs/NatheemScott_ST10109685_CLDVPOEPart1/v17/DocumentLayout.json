@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|c:\\users\\natheem scott\\source\\repos\\natheemscott_st10109685_cldvpoepart1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|c:\\users\\natheem scott\\source\\repos\\natheemscott_st10109685_cldvpoepart1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|c:\\users\\natheem scott\\source\\repos\\natheemscott_st10109685_cldvpoepart1\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|solutionrelative:services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|c:\\users\\natheem scott\\source\\repos\\natheemscott_st10109685_cldvpoepart1\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|solutionrelative:services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|c:\\users\\natheem scott\\source\\repos\\natheemscott_st10109685_cldvpoepart1\\services\\queueservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|solutionrelative:services\\queueservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|c:\\users\\natheem scott\\source\\repos\\natheemscott_st10109685_cldvpoepart1\\services\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|solutionrelative:services\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|c:\\users\\natheem scott\\source\\repos\\natheemscott_st10109685_cldvpoepart1\\models\\customerprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|solutionrelative:models\\customerprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|c:\\users\\natheem scott\\source\\repos\\natheemscott_st10109685_cldvpoepart1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2BD169E-7D5C-4849-AC06-8CF5B633CDB1}|NatheemScott_ST10109685_CLDVPOEPart1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T10:17:33.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:16:53.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TableService.cs",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Services\\TableService.cs",
+              "RelativeDocumentMoniker": "Services\\TableService.cs",
+              "ToolTip": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Services\\TableService.cs",
+              "RelativeToolTip": "Services\\TableService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:16:24.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueServices.cs",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Services\\QueueServices.cs",
+              "RelativeDocumentMoniker": "Services\\QueueServices.cs",
+              "ToolTip": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Services\\QueueServices.cs",
+              "RelativeToolTip": "Services\\QueueServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:16:23.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Services\\FileService.cs",
+              "RelativeToolTip": "Services\\FileService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:16:22.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Services\\BlobService.cs",
+              "RelativeToolTip": "Services\\BlobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:16:20.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerProf.cs",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Models\\CustomerProf.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerProf.cs",
+              "ToolTip": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Models\\CustomerProf.cs",
+              "RelativeToolTip": "Models\\CustomerProf.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:16:13.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Natheem Scott\\source\\repos\\NatheemScott_ST10109685_CLDVPOEPart1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T15:42:31.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

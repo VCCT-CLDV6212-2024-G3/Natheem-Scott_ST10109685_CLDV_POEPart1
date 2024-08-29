@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <h1>Customer and Product Management</h1>
+
+    <h2>Upload Image</h2>
+    <form asp-action="UpldImage" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" id="file" accept="image/*">
+        <input type="submit" value="Upload Image">
+    </form>
+
+    <h2>Customer Profile</h2>
+    <form asp-action="AddCustProfile" method="post">
+        <input type="text" name="FirstName" placeholder="First Name" required>
+        <input type="text" name="LastName" placeholder="Last Name" required>
+        <input type="email" name="Email" placeholder="Email" required>
+        <input type="tel" name="PhoneNumber" placeholder="Phone Number" required>
+        <input type="submit" value="Add Profile">
+    </form>
+
+    <h2>Process Order</h2>
+    <form asp-action="ProcOrder" method="post">
+        <input type="text" name="orderId" placeholder="Order ID" required>
+        <input type="submit" value="Process Order">
+    </form>
+
+    <h2>Upload Contract</h2>
+    <form asp-action="UpldContract" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" id="contractFile">
+        <input type="submit" value="Upload Contract">
+    </form>
+</div>
